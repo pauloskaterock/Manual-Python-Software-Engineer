@@ -1,0 +1,12 @@
+exercícios de lógica de programação em Python:
+
+Escreva um programa que solicite dois números ao usuário e exiba a soma deles.
+Faça um programa que leia o raio de um círculo e calcule sua área.
+Crie um programa que verifique se um número é par ou ímpar.
+Escreva um programa que leia três números e exiba o maior deles.
+Faça um programa que calcule o fatorial de um número.
+Crie um programa que leia uma lista de números e exiba o maior e o menor deles.
+Escreva um programa que verifique se um número é primo.
+Faça um programa que leia uma lista de números e exiba apenas os números pares.
+Crie um programa que converta graus Celsius para Fahrenheit.
+Escreva um programa que leia uma lista de números e exiba apenas os números ímpares.
