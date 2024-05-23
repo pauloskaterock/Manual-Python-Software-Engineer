@@ -1,0 +1,109 @@
+A lista a seguir apresenta uma série de atributos, iteradores e métodos que podem ser aplicados a um objeto BeautifulSoup.
+
+Método/atributo	Definição
+append	acrescentar
+attrs	atributos
+can_be_empty_element	pode ser um elemento vazio
+cdata_list_attributes	Atributos da lista cdata
+childGenerator	gerador infantil
+children	crianças
+clear	limpar
+contents	conteúdo
+decode	decodificar
+decode_contents	decodificar o conteúdo
+decompose	decompor
+decomposed	decomposto
+descendants	descendentes
+encode	codificar
+encode_contents	codificar conteúdo
+extend	ampliar
+extract	extrair
+fetchNextSiblings	buscar os próximos irmãos
+fetchParents	buscar pais
+fetchPrevious	buscar anterior
+fetchPreviousSiblings	buscar irmãos anteriores
+find	achar
+findAll	encontrar tudo
+findAllNext	encontre tudo próximo
+findAllPrevious	encontrar todos os anteriores
+findChild	encontrar criança
+findChildren	encontrar crianças
+findNext	encontre o próximo
+findNextSibling	encontre o próximo irmão
+findNextSiblings	encontrar próximos irmãos
+findParent	encontrar pai
+findParents	encontrar pais
+findPrevious	encontrar anterior
+findPreviousSibling	encontrar irmão anterior
+findPreviousSiblings	encontrar irmãos anteriores
+find_all	encontrar tudo
+find_all_next	encontre tudo próximo
+find_all_previous	encontrar todos os anteriores
+find_next	encontre o próximo
+find_next_sibling	encontre o próximo irmão
+find_next_siblings	encontrar próximos irmãos
+find_parent	encontrar pai
+find_parents	encontrar pais
+find_previous	encontrar anterior
+find_previous_sibling	encontrar irmão anterior
+find_previous_siblings	encontrar irmãos anteriores
+format_string	string de formato
+formatter_for_name	formatador para nome
+get	obter
+getText	obter texto
+get_attribute_list	obter lista de atributos
+get_text	obter texto
+has_attr	tem attr
+has_key	tem chave
+hidden	escondido
+index	índice
+insert	inserir
+insert_after	inserir depois
+insert_before	insira antes
+isSelfClosing	é auto-fechando
+is_empty_element	é um elemento vazio
+known_xml	xml conhecido
+name	nome
+namespace	namespace
+next	Next
+nextGenerator	próximo gerador
+nextSibling	próximo irmão
+nextSiblingGenerator	próximo irmão gerador
+next_element	próximo elemento
+next_elements	próximos elementos
+next_sibling	próximo irmão
+next_siblings	próximos irmãos
+parent	pai
+parentGenerator	gerador pai
+parents	pais
+parserClass	classe de analisador
+parser_class	classe de analisador
+prefix	prefixo
+preserve_whitespace_tags	preservar as tags de espaço em branco
+prettify	embelezar
+previous	anterior
+previousGenerator	gerador anterior
+previousSibling	irmão anterior
+previousSiblingGenerator	gerador irmão anterior
+previous_element	elemento anterior
+previous_elements	elementos anteriores
+previous_sibling	irmão anterior
+previous_siblings	irmãos anteriores
+recursiveChildGenerator	gerador recursivo de filho
+renderContents	renderizar conteúdo
+replaceWith	substituir com
+replaceWithChildren	substitua por crianças
+replace_with	substituir com
+replace_with_children	substitua por crianças
+select	selecionar
+select_one	selecione um
+setup	configurar
+smooth	suave
+sourceline	linha de origem
+sourcepos	posição da fonte
+string	retorna uma string
+strings	retorna as strings
+stripped_strings	cordas despojadas
+text	retorna apenas o texto
+unwrap	desembrulhar
+wrap	embrulho

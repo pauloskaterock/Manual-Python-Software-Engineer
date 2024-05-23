@@ -1,0 +1,49 @@
+top 7 com as melhores extensões do VS Code para Python. Mas antes vamos entender mais sobre o VS Code?
+
+Nos últimos anos, o Visual Studio Code (VS Code) vem se tornando cada vez mais popular entre desenvolvedores. Lançado em 2015 pela Microsoft, o VS Code é um editor de código para desenvolvimento de aplicações web. Leve e multiplataforma, a ferramenta está disponível para Windos, Mac OS e Linux e sua execução é excelente em todas essas plataformas. O VS Code é gratuito e tem código aberto, além de fornecer suporte para mais de 30 linguagens de programação, como JavaScript, C++, PHP, HTML, SQL e Python.
+
+Um dos motivos que fazem do VS Code um IDE cada vez mais usado é o fato de ele ser extremamente expansível e customizável, sendo possível adaptá-lo às suas necessidades. Existem atualmente centenas de extensões do VS Code para todas as linguagens mais populares e elas te ajudam a desenvolver aplicações de maneira mais rápida e produtiva.
+
+sar o VS Code para Python permite que você ganhe velocidade de trabalho e eficiência, permitindo que você o customize de acordo com as suas necessidades 
+Usar o VS Code para Python permite que você ganhe velocidade de trabalho e eficiência, permitindo que você o customize de acordo com as suas necessidades | Imagem Freepik
+VS Code para Python
+O que torna o VS Code uma das melhores IDEs para Python é sua integração nativa com o Github, o que permite fazer commits e sincronizações direto na tela. Ele possui explorador de variáveis, depuradores e compiladores, além de ter uma interface totalmente customizável.
+
+É muito fácil instalar o suporte para Python e depois de fazer o download, o VS Code vai reconhecer a instalação automaticamente, assim como as bibliotecas.
+
+7 Melhores extensões do VS Code para Python
+
+Conheça a lista com as melhores extensões VS Code para Python e escolha as que mais se adequam às suas necessidades | Imagem Freepik
+1. Python by Microsoft é uma das extensões de VS Code para Python
+Uma extensão de VS Code para Python com suporte avançado para a linguagem Python (incluindo Python 3.6), incluindo recursos como linting, depuração, IntelliSense, navegação de código, formatação de código, refatoração, testes de unidade, snippets e muito mais!
+
+2. Better Comments
+Better Comments torna muito simples voltar e comentar o código; a extensão oferece suporte à categorização de comentários, bem como estilo exclusivo. Ela usa cores para caracterizar comentários e alertas, deixando muito mais simples a identificação de linhas que requerem sua atenção.
+
+Esta extensão de VS Code para Python é ótima para desenvolvedores que trabalham com várias linguagens, pois sua lista de linguagens de programação com suporte parece interminável. É extremamente útil desenvolvedores Python que tendem a se envolver muito com o código e se esquecem de comentá-lo à medida que avançam.
+
+3. Python Indent
+O VSCode funciona com várias linguagens, mas às vezes dá a impressão de não ser realmente fluente em nenhuma delas. É por isso que as extensões são importantes – e por que mesmo as extensões mais simples, como Python Indent, são importantes.
+
+Cada vez que você pressiona enter enquanto usa o VSCode, ele posiciona o cursor na extremidade esquerda da janela. Isso não é ideal para Python já que o recuo do Python é fundamental para seu fluxo de trabalho, diferenciando os vários tipos de recuos e os colchetes, característica fundamental para ações como escrever funções vazias. O Python Indent ajuda você a deixar o seu código mais parecido com um código Python padrão dentro do VS Code.
+
+4. Python Docstring Generator
+As docstrings são essenciais para o desenvolvimento Python, servindo como minidocumentação para qualquer módulo, método, classe ou função. O Python Docstring Generator torna muito fácil documentar seu código usando o VSCode e te ajuda a seguir todos os formatos padrão.
+
+Ele tem suporte para args, kwargs, decorators, erros e tipos de parâmetro; o padrão também é a criação de docstring de várias linhas para uma experiência completa de comentários. Dos recursos disponíveis, vale a pena destaca o suporte para navegação com guias, que permite que você construa suas docstrings em formas de tabelas, adicionando argumentos.
+
+5. Python Preview
+Esta extensão de VS Code para Python é simples, mas extremamente útil. Ele permite que o VSCode gera uma representação visual do código para Python, o que torna a depuração do código muito mais simples e provavelmente um pouco mais rápida.
+
+Com o Python Preview, você pode visualizar seu código e garantir que o que você imaginou seja exatamente o que está representado. Embora seja uma extensão simples, ela funciona com a linguagem Python central; infelizmente, as bibliotecas instaladas não são suportadas e são limitadas ao interpretador Python padrão. Ainda assim, a simplicidade faz dela uma excelente extensão, sobretudo para quem está aprendendo a programar.
+
+6. Task Explorer
+Enquanto o Python Preview se destina a bases de código mais simples e para aqueles que estão aprendendo a programar, o Task Explorer aumenta sua experiência com o VSCode para Python. Essa extensão permite que você visualize quase todas as funções e ações de sua base de código sem nunca precisar sair do VSCode.
+
+É uma extensão sensacional para quem trabalha com várias linguagens, ao permitir que tarefas distintas sejam organizadas em um esquema de visualização em ramos, onde você pode ver os nós pais, nós agrupados e pastas de cada projeto.
+
+7. Visual Studio IntelliCode
+Esta é uma extensão VS Code para Python autônoma, que fornece IntelliSense assistido por IA, verificando o código e simplificando o trabalho com preenchimento automático.
+
+Ainda não trabalha com VS Code para Python?
+Aprender Python é uma ótima escolha tanto para aquelas pessoas que buscam entrar no mundo da programação e procuram sua primeira linguagem de trabalho, quanto para programadores mais experientes que desejam se reciclar e abrir novas portas de carreira.

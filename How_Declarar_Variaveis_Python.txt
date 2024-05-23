@@ -1,0 +1,114 @@
+Declarar variáveis em Python é um processo simples e direto. Em Python, você não precisa especificar o tipo de dados da variável, pois o Python é uma linguagem de tipagem dinâmica. Isso significa que o tipo de dado é inferido automaticamente com base no valor atribuído.
+
+Regras para Nomes de Variáveis
+Devem começar com uma letra ou sublinhado (_).
+Podem conter letras, números e sublinhados (A-Z, a-z, 0-9, _).
+Não podem começar com um número.
+São sensíveis a maiúsculas e minúsculas (ou seja, variavel e Variavel são diferentes).
+Não podem ser palavras reservadas (palavras-chave) do Python.
+Exemplos de Declaração de Variáveis
+
+1. Variáveis Simples
+
+# Declaração de variáveis com diferentes tipos de dados
+numero_inteiro = 10           # Inteiro
+numero_decimal = 20.5         # Decimal (float)
+texto = "Olá, Mundo!"         # String
+booleano = True               # Booleano
+
+# Imprimindo os valores e tipos das variáveis
+print(numero_inteiro)         # Saída: 10
+print(type(numero_inteiro))   # Saída: <class 'int'>
+
+print(numero_decimal)         # Saída: 20.5
+print(type(numero_decimal))   # Saída: <class 'float'>
+
+print(texto)                  # Saída: Olá, Mundo!
+print(type(texto))            # Saída: <class 'str'>
+
+print(booleano)               # Saída: True
+print(type(booleano))         # Saída: <class 'bool'>
+2. Variáveis Múltiplas em Uma Linha
+
+# Declarando várias variáveis em uma única linha
+a, b, c = 1, 2.5, "Python"
+
+print(a)  # Saída: 1
+print(b)  # Saída: 2.5
+print(c)  # Saída: Python
+3. Atribuição do Mesmo Valor a Múltiplas Variáveis
+
+# Atribuindo o mesmo valor a várias variáveis
+x = y = z = 100
+
+print(x)  # Saída: 100
+print(y)  # Saída: 100
+print(z)  # Saída: 100
+4. Variáveis com Nomes Descritivos
+
+# Uso de nomes de variáveis descritivos
+idade_do_usuario = 25
+nome_do_usuario = "Alice"
+saldo_conta_bancaria = 1500.75
+
+print(idade_do_usuario)        # Saída: 25
+print(nome_do_usuario)         # Saída: Alice
+print(saldo_conta_bancaria)    # Saída: 1500.75
+Boas Práticas na Nomeação de Variáveis
+Use nomes descritivos: Escolha nomes que descrevam claramente o propósito da variável.
+Siga a convenção snake_case: Use letras minúsculas e sublinhados para separar palavras (minha_variavel).
+Evite abreviações: A menos que sejam amplamente entendidas, use nomes completos (idade_do_usuario em vez de idu).
+Mantenha a consistência: Use um estilo de nomeação consistente ao longo de seu código.
+Exemplos de Boas Práticas
+
+# Bom
+numero_de_clientes = 150
+taxa_de_crescimento_anual = 1.05
+
+# Ruim
+numClientes = 150
+taxaCrescimento = 1.05
+Exemplos Práticos
+1. Calculadora Simples
+
+# Declarando variáveis para armazenar números
+num1 = 10
+num2 = 5
+
+# Operações aritméticas
+soma = num1 + num2
+diferenca = num1 - num2
+produto = num1 * num2
+quociente = num1 / num2
+
+# Exibindo os resultados
+print(f"Soma: {soma}")            # Saída: Soma: 15
+print(f"Diferença: {diferenca}")  # Saída: Diferença: 5
+print(f"Produto: {produto}")      # Saída: Produto: 50
+print(f"Quociente: {quociente}")  # Saída: Quociente: 2.0
+2. Manipulação de Texto
+
+# Declarando variáveis de string
+primeiro_nome = "João"
+ultimo_nome = "Silva"
+
+# Concatenando strings
+nome_completo = primeiro_nome + " " + ultimo_nome
+
+# Exibindo o nome completo
+print(f"Nome Completo: {nome_completo}")  # Saída: Nome Completo: João Silva
+
+Conclusão
+Declarar variáveis em Python é simples, mas escolher nomes descritivos e seguir boas práticas de codificação pode fazer uma grande diferença na legibilidade e manutenção do código. A prática constante e a revisão de código ajudarão a reforçar essas boas práticas.
+
+
+
+
+
+
+Responses will use GPT-3.5 until your limit resets após 14:58.
+
+Obter Plus
+
+
+
