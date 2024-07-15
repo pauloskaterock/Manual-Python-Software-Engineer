@@ -2,6 +2,8 @@ variavel=input('Digite algo: ')
 
 print('--------------------------------------------')
 
+print('--------------------------------------------')
+
 idade=input('Qual sua idade? ')
 nome=input('Qual seu nome? ')
 
