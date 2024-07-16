@@ -1,0 +1,6 @@
+inserir um pendrive, o script vai e copia todos os dados do pendrive pra uma pasta que você pré-definiu
+
+alerta quando a ação da Petrobrás atingir um determinado valor? Cria um script em Python
+
+script que vai ficar tentando descobrir a senha do Wi-Fi do vizinho
+
