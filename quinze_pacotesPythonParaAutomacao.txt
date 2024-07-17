@@ -1,0 +1,52 @@
+Tempo é o recurso mais precioso da Terra.
+
+O tempo não volta, o tempo não pode ser estendido e você não pode comprar mais tempo. O tempo vai passar e ponto final. Automatizar tarefas básicas do dia a dia, portanto, é fundamental para aumentar a produtividade e valorizar o seu tempo.
+
+Podemos automatizar uma série de tarefas com a Linguagem Python. Desde a automação de tarefas na interface gráfica do Windows, MacOS ou Linux, passando pela automação da extração de dados via web scraping, extração de dados de arquivos pdf, testes de software, até automação de planilhas do Excel, há pacotes Python que ajudam nas tarefas de automação para facilitar o seu trabalho no dia a dia.
+
+Separamos aqui para você 15 Pacotes Python Para Automação. Muitos desses pacotes são aplicados nos projetos dos Cursos e Formações aqui na DSA. Boa leitura e boa automação!
+
+1- PyAutoGUI
+O PyAutoGUI permite que seus scripts Python controlem o mouse e o teclado para automatizar as interações com outros aplicativos. A API foi projetada para ser simples. O PyAutoGUI funciona no Windows, MacOS e Linux e é executado com Python 2 e 3.
+
+2- PyWinAuto
+PyWinAuto é um conjunto de módulos Python para automatizar a GUI (Graphical User Interface) do Microsoft Windows. Em sua forma mais simples, ele permite que você envie ações do mouse e do teclado para as janelas de diálogos e controles do Windows, automatizando tarefas como geração de arquivos ou mesmo envio de e-mails.
+
+3- Selenium
+Selenium permite definir testes e detectar automaticamente os resultados desses testes em um navegador web. Um conjunto de funções Selenium permite que você crie interações passo a passo com uma página web e avalie a resposta de um navegador a várias mudanças. Você pode então decidir se a resposta do navegador está de acordo com o que você espera para seu processo de automação via navegador.
+
+4- Splinter
+Splinter é uma ferramenta de código aberto para testar aplicativos web usando Python. Ele permite que você automatize as ações do navegador, como visitar URLs e interagir com os itens das páginas.
+
+5- Scrapy
+Scrapy é um framework de código aberto para extrair os dados de web sites. De forma rápida e simples, mas extensível. É um dos melhores da sua categoria.
+
+6- Windmill
+Windmill é um framework de teste de UI (User Interface) da web de código aberto. O Windmill implementa testes em vários navegadores, gravação e reprodução no navegador e funcionalidade para depuração rápida e integração do ambiente de testes.
+
+7- Pytest
+O Pytest torna mais fácil escrever pequenos testes de softwares, mas pode ser escalonado para suportar testes funcionais complexos para aplicativos e bibliotecas.
+
+8- ReportLab
+ReportLab é um framework usado para a criação de documentos PDF baseados em dados complexos e gráficos vetoriais personalizados. É gratuito, de código aberto e escrito em Python.
+
+9- PDFMiner
+PDFMiner é uma ferramenta de extração de texto de documentos PDF. Excelente para mineração de dados.
+
+10- Borb
+Trabalhar com PDF pode ser complexo e desafiador, na melhor das hipóteses. É por isso que o borb foi criado pensando na facilidade de uso. Os usuários não precisam ter amplo conhecimento sobre o formato do PDF. Economize tempo, dinheiro e trabalhe mais feliz com o borb, se precisar extrair dados de arquivos PDF.
+
+11- OpenPyXL
+O OpenPyXL é Uma biblioteca Python para ler/gravar arquivos xlsx/xlsm do Excel.
+
+12- PyXLL
+Use o Microsoft Excel como um front-end amigável para o seu código Python. Sem VBA, apenas Python! Essa é a proposta do PyXLL. Embora seja um software pago, há uma versão trial que pode ser usada sem custo.
+
+13- XlsxWriter
+XlsxWriter é um módulo Python que pode ser usado para escrever texto, números, fórmulas e hiperlinks para várias planilhas em um arquivo XLSX do Excel 2007+. Ele oferece suporte a recursos como formatação e diversas outras funcionalidades.
+
+14- Tagui
+Tagui é uma API simples e poderosa de RPA para Python que torna a automação robótica de processos divertida! Você pode usá-lo para automatizar rapidamente tarefas repetitivas que consomem tempo em sites, aplicativos de desktop ou linha de comando. Este pacote foi inicialmente desenvolvido na Universidade de Singapura.
+
+15- Robot Framework
+O Robot Framework é um framework de automação genérica e de código aberto. Ele pode ser usado para automação de teste e automação robótica de processos (RPA). É estudado em um dos cursos da Formação Desenvolvedor RPA.
